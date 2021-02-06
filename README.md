@@ -1,19 +1,15 @@
-# *snake game in python*
-
+# Snake game in python
 Meu primeiro joguinho, o código está bagunçado, pois é antigo
 
 ## Library installation
+Windows: `pip install pygame`
 
-Windows: ```pip install pygame```
-
-Linux: ```pip3 install pygame```
+Linux: `pip3 install pygame`
 
 ## Running the application
+Windows: `python snake.py`
 
-
-Windows: ```python snake.py```
-
-Linux: ```python3 snake.py```
+Linux: `python3 snake.py`
 
 ## Prerequisites
 * [Python](https://www.python.org)
